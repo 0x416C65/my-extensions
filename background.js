@@ -3,7 +3,8 @@ chrome.browserAction.onClicked.addListener(function (tab) {
     extList.sort(function (a, b) {
       return a.name.localeCompare(b.name); // ordena a lista por nome
     });
-    var html = '<html><head><title>Lista de Extensões</title></head><body><ul>';
+    var html =
+      '<html><head><title>Lista de Extensões</title></head><body><ul style="list-style:auto;">';
     for (var i = 0; i < extList.length; i++) {
       var ext = extList[i];
       if (ext.type === 'extension' && ext.enabled) {
