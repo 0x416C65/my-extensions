@@ -15,11 +15,3 @@ Para instalar esta extensão, siga as seguintes etapas:
 ## Como usar
 
 Após instalar a extensão, basta clicar no ícone da extensão na barra de ferramentas do Chrome para gerar a lista de extensões instaladas e baixar o arquivo HTML.
-
-## Contribuindo
-
-Se você quiser contribuir para o desenvolvimento desta extensão, sinta-se à vontade para fazer um fork deste repositório e enviar um pull request com suas alterações. Você também pode reportar problemas ou sugestões de melhorias na seção de "Issues" deste repositório.
-
-## Licença
-
-Este projeto é licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
