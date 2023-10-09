@@ -1,6 +1,6 @@
 # My Extensions Chrome
 
-Extensão para Google Chrome que gera uma lista de todas as extensões instaladas no navegador e baixa um arquivo HTML com os nomes e respectivos links para download na Chrome Web Store.
+Extensão para Chrome que gera uma lista de todas as extensões instaladas no navegador e baixa um arquivo HTML com os nomes e respectivos links para download na Chrome Web Store.
 
 ## Instalação
 
